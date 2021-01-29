@@ -1,4 +1,4 @@
-#Tidy-Data-Project
+# Tidy-Data-Project
 Getting & Cleaning Data Final Course Project
 
 The following files form a part of this project:
